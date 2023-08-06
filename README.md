@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Saikat Das
 - 👀 I’m interested in ... Learning and making projects
-- 🌱 I’m currently learning ... Python, c, Java, HTML, CSS on standard XII
-- 💞️ I’m looking to collaborate on ... (Nothing)
+- 🙌 Working as an Android Developer.
+- 🌱 Skilled in... Java, Python, C, MySQL, PHP, Android Studio
 - 📫 How to reach me ... +91 8334066167 or saikat.rog@gmail.com
 
 <!---
